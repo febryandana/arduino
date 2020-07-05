@@ -4,7 +4,7 @@ Personal repository for storing my Arduino/IoT related projects
 
 List :
 1. WiFi_LampAndFan_Relay
-2.
+2. Dustbin
 3.
 
 Feel free to use, modify, and distribute these codes
