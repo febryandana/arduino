@@ -7,8 +7,7 @@ List :
 2. Dustbin
 3.
 
-Feel free to use, modify, and distribute these codes
-
+Will add more if I dont forget.
 
 #### Authors
 Moch. Febryandana Nurfahri
